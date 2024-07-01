@@ -4,8 +4,8 @@ Kubeflow_pipline_module, use docker as base component.
 - [Development mode](https://github.com/OOAAHH/Kubeflow_pipline_module/blob/main/README.md#development-mode)
 - [Sketch](https://github.com/OOAAHH/Kubeflow_pipline_module/blob/main/README.md#sketch)
 - [Update](https://github.com/OOAAHH/Kubeflow_pipline_module/blob/main/README.md#Update)
-- [Example](https://github.com/OOAAHH/Kubeflow_pipline_module/blob/main/README.md#example)
-- [Useage](https://github.com/OOAAHH/Kubeflow_pipline_module/blob/main/README.md#useage)
+- [Example](https://github.com/rnacentre/Kubeflow_pipline_module?tab=readme-ov-file#example)
+- [Useage](https://github.com/rnacentre/Kubeflow_pipline_module?tab=readme-ov-file#useage)
 
 # Development mode
 Prepare a full-fledged image file with fully functional python scripts inside. Every time docker starts, the python script starts.
